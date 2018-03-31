@@ -6,5 +6,5 @@ This README would normally document whatever steps are necessary to get your app
 
 * Quick summary
 * Version
-* [My Website](https://students.washington.edu/kbolason/capstoneproject2018/)
+* [My Website](https://students.washington.edu/kbolason/capstoneproject2018/Capstone%20Final/capstone_main.html)
 
